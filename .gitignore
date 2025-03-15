@@ -1,0 +1,4 @@
+node_modules/
+.env
+fintech-frontend/
+package-lock.json
