@@ -1,4 +1,4 @@
 node_modules/
 .env
-fintech-frontend/
+#fintech-frontend/
 package-lock.json
